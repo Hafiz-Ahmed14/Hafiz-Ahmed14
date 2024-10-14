@@ -1,7 +1,7 @@
-
+<img align = "center" alt = "cover" height = "270" width = "1000" src = "https://github.com/Hafiz-Ahmed14/Hafiz-Ahmed14/blob/main/githubPhoto.png">
 <h1 align="center">Hi 👋, I'm Hafiz Ahmed</h1>
 <h3 align="center">Undergraduate Computer Science Student <br> Specialist at Codeforces✅ | Web Developer | Competitive Programmer</h3>
-<img align = "right" alt = "coding" width = "380" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align = "right" alt = "coding" width = "360" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafiz-ahmed14&label=Profile%20views&color=0e75b6&style=flat" alt="hafiz-ahmed14" /> </p>
 
 - 🔭 I’m currently studying **COMPUTER SCIENCE ENGINEERING (BAUET)**
