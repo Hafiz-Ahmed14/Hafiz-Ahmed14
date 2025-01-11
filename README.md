@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **ASP.NET, .NET**
 
-- 👯 I’m looking to collaborate on **BAUET ROUTINE MANAGEMENT SYSTEM**
+- 👯 I’m looking to collaborate on **BONOLOTA HALL MILL MANAGEMENT SYSTEM**
 
-- 🤝 I’m currently working on **BONOLOTA HALL MILL MANAGEMENT SYSTEM**
+- 🤝 I’m currently working on **DYNAMIC CV GENERATOR**
 
-- 💬 Ask me about **C++, C#, JAVASCRIPT**
+- 💬 Ask me about **C++, C#, JAVASCRIPT, ASP.NET **
 
 - 📫 How to reach me **hafizahmed373908@gmail.com**
 
