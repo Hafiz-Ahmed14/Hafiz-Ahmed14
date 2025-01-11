@@ -12,7 +12,7 @@
 
 - 🤝 I’m currently working on **DYNAMIC CV GENERATOR**
 
-- 💬 Ask me about **C++, C#, JAVASCRIPT, ASP.NET **
+- 💬 Ask me about **C++, C#, JAVASCRIPT, ASP.NET**
 
 - 📫 How to reach me **hafizahmed373908@gmail.com**
 
