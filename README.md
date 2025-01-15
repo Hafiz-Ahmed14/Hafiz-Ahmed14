@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ASP.NET, .NET**
 
-- 👯 I’m looking to collaborate on **BONOLOTA HALL MILL MANAGEMENT SYSTEM**
+- 👯 I’m looking to collaborate on **BONOLOTA HALL MEAL MANAGEMENT SYSTEM**
 
 - 🤝 I’m currently working on **DYNAMIC CV GENERATOR**
 
