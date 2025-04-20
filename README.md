@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **ASP.NET, .NET**
 
-- 👯 I’m looking to collaborate on **BONOLOTA HALL MEAL MANAGEMENT SYSTEM**
+- 👯 I’m looking to collaborate on **BAUET HALL MEAL MANAGEMENT SYSTEM(BHMMS)**
 
-- 🤝 I’m currently working on **DYNAMIC CV GENERATOR**
+- 🤝 I’m currently working on **DYNAMIC CV GENERATOR(Vita-craft)**
 
 - 💬 Ask me about **C++, C#, JAVASCRIPT, ASP.NET**
 
