@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently studying **COMPUTER SCIENCE ENGINEERING (BAUET)**
 
-- 🌱 I’m currently learning **ASP.NET, .NET**
+- 🌱 I’m currently learning **ASP.NET CORE, .NET CORE**
 
 - 👯 I’m looking to collaborate on **BAUET HALL MEAL MANAGEMENT SYSTEM(BHMMS)**
 
-- 🤝 I’m currently working on **DYNAMIC CV GENERATOR(Vita-craft)**
+- 🤝 I’m currently working on **OUTCOME BASED EDUCATION SOFTWARE(BAUET CSE)**
 
-- 💬 Ask me about **C++, C#, JAVASCRIPT, ASP.NET**
+- 💬 Ask me about **C++, C#, JAVASCRIPT, ASP.NET CORE**
 
 - 📫 How to reach me **hafizahmed373908@gmail.com**
 
